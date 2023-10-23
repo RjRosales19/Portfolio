@@ -3070,11 +3070,11 @@ input, select, textarea {
 					margin-bottom: 2.5em;
 				}
 
-				.profile_photo{
+				/* .profile_photo{
 					height: 16rem;
 					width: 19rem;
 					border-radius: 10px;
-				}
+				} */
 
 			body.homepage #header {
 				min-height: 0;
